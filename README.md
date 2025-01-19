@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👩🏻‍💻 Luiz Felipe
 
 **`Desenvolvedor Back-end`**
