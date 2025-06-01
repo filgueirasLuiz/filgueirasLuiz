@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Luiz Felipe Filgueiras Bordoni, tenho 24 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNESA.
+Me chamo Luiz Felipe Filgueiras Bordoni, tenho 24 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio .
 
 
 ---
